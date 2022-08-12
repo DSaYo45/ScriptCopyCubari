@@ -5,13 +5,20 @@
     "artist": "Niru Gekoro",
     "cover": "https://i.imgur.com/fKNbW13.jpg",
     "chapters": {
-        "0": {
+        "01": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/DBtmjE4"
             },
             "last_updated": 1624606143,
             "title": "Niebla y Sangre",
             "volume": "01"
-        }
+        },
+    "02": {
+        "groups": {
+            "Imgur": "/proxy/api/imgur/chapter/CgTZ9Pg"
+        },
+        "last_updated": 1624606143,
+        "title": "Jormungand",
+        "volume": "01"
     }
 }
