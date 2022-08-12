@@ -1,0 +1,17 @@
+{    
+    "title": "PHANTOM OF REVERSE - ESPAÑOL",
+    "description": "Despertar en un mundo totalmente devastado y sin siquiera tiempo para enterarse de la situación, desde el principio él estará enfrentando peligro constante, todos están detrás suyo debido a su misterioso y temido poder que despertó después de su... muerte?",
+    "author": "Niru Gekoro",
+    "artist": "Niru Gekoro",
+    "cover": "https://i.imgur.com/fKNbW13.jpg",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/DBtmjE4"
+            },
+            "last_updated": 1624606143,
+            "title": "Niebla y Sangre",
+            "volume": "01"
+        }
+    }
+}
