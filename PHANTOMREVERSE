@@ -5,7 +5,7 @@
     "artist": "Niru Gekoro",
     "cover": "https://i.imgur.com/fKNbW13.jpg",
     "chapters": {
-        "01": {
+        "1": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/DBtmjE4"
             },
@@ -13,7 +13,7 @@
             "title": "Niebla y Sangre",
             "volume": "01"
         },
-    "02": {
+    "2": {
         "groups": {
             "Imgur": "/proxy/api/imgur/chapter/CgTZ9Pg"
         },
